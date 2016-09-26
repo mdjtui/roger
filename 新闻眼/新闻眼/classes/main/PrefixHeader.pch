@@ -1,0 +1,18 @@
+//
+//  PrefixHeader.pch
+//  新闻眼
+//
+//  Created by tarena on 16/9/17.
+//  Copyright © 2016年 tarena. All rights reserved.
+//
+
+#ifndef PrefixHeader_pch
+#define PrefixHeader_pch
+#define URL_CategorysPath @"http://v.juhe.cn/toutiao/index?type=%@&key=3d83fcd49e07fd8cc3327103900a6569"
+
+#import "SVPullToRefresh.h"
+#import <UIImageView+WebCache.h>
+// Include any system framework and library headers here that should be included in all compilation units.
+// You will also need to set the Prefix Header build setting of one or more of your targets to reference this file.
+
+#endif /* PrefixHeader_pch */
